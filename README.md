@@ -88,9 +88,3 @@ project/
     │   ├── js/app.js
     │   └── css/styles.css
 ```
-
-## 📎 포트폴리오 링크
-
-- GitHub: https://github.com/your-id/whisper-voice-app
-- 실행 환경: Google Colab + ngrok
-
